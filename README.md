@@ -27,11 +27,10 @@ If you want to override default values, define `window.customSelectData` **befor
 </script>
 ```
 
-### 2. Load the Script (CDN Example)
-Replace `yourusername/yourrepo` with your actual repository on jsDelivr or any CDN hosting your script.
+### 2. Load the Script before body tag
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/yourusername/yourrepo/custom-select.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/SimonKefas/custom-select@latest/script.js"></script>
 ```
 
 ### 3. Add Select Elements in Webflow
